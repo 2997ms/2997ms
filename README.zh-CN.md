@@ -4,6 +4,12 @@
 
 我是一名在伦敦工作的软件工程师，长期关注 Crypto、Bitcoin、Ethereum 与智能合约安全。我喜欢把学到的东西写下来、做成视频，也一直热爱算法和竞赛编程。
 
+---
+
+## 🎥 内容与笔记
+
+我在视频和博客里分享自己对 Crypto、智能合约和算法的理解。
+
 🐦 [Twitter](https://x.com/ChongWang29) · ▶️ [YouTube](https://www.youtube.com/@chong_wang_official) · 📺 [Bilibili](https://space.bilibili.com/20074880) · 🌐 [个人网站](https://2997ms.github.io)
 
 ---
@@ -31,17 +37,6 @@
 - 🟠 [LeetCode](https://leetcode.com/2997ms/)
 - 🔵 [Codeforces · OrangeDream](http://codeforces.com/profile/OrangeDream)
 - 🟣 [HackerRank](https://www.hackerrank.com/2997ms)
-
----
-
-## 🎥 内容与笔记
-
-我在视频和博客里分享自己对 Crypto、智能合约和算法的理解。
-
-- ▶️ [YouTube](https://www.youtube.com/@chong_wang_official)
-- 📺 [Bilibili](https://space.bilibili.com/20074880)
-- 🐦 [Twitter](https://x.com/ChongWang29)
-- 📚 [所有博客文章](https://2997ms.github.io/archives/)
 
 ---
 

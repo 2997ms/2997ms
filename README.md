@@ -4,6 +4,12 @@ English · [中文](./README.zh-CN.md)
 
 I’m a software engineer based in London, with a long-standing interest in crypto, Bitcoin, Ethereum, and smart-contract security. I enjoy turning what I learn into writing and videos, and I’ve always loved algorithms and competitive programming.
 
+---
+
+## 🎥 Content & notes
+
+I share what I learn about crypto, smart contracts, and algorithms through videos and writing.
+
 🐦 [Twitter](https://x.com/ChongWang29) · ▶️ [YouTube](https://www.youtube.com/@chong_wang_official) · 📺 [Bilibili](https://space.bilibili.com/20074880) · 🌐 [Website](https://2997ms.github.io)
 
 ---
@@ -31,17 +37,6 @@ I’ve always enjoyed algorithmic problem solving and have completed more than 3
 - 🟠 [LeetCode](https://leetcode.com/2997ms/)
 - 🔵 [Codeforces · OrangeDream](http://codeforces.com/profile/OrangeDream)
 - 🟣 [HackerRank](https://www.hackerrank.com/2997ms)
-
----
-
-## 🎥 Content & notes
-
-I share what I learn about crypto, smart contracts, and algorithms through videos and writing.
-
-- ▶️ [YouTube](https://www.youtube.com/@chong_wang_official)
-- 📺 [Bilibili](https://space.bilibili.com/20074880)
-- 🐦 [Twitter](https://x.com/ChongWang29)
-- 📚 [All blog posts](https://2997ms.github.io/archives/)
 
 ---
 
