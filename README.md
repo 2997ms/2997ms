@@ -35,7 +35,7 @@ I focus on Solidity, the EVM, and smart-contract auditing. I especially enjoy un
 I’ve always enjoyed algorithmic problem solving and have completed more than 3,000 LeetCode problems. Competitive programming keeps me close to the fundamentals, details, and the craft of breaking down hard problems.
 
 - 🟠 [LeetCode](https://leetcode.com/2997ms/)
-- 🔵 [Codeforces · OrangeDream](http://codeforces.com/profile/OrangeDream)
+- 🔵 [Codeforces · 2997ms](https://codeforces.com/profile/_2997ms_)
 - 🟣 [HackerRank](https://www.hackerrank.com/2997ms)
 
 ---

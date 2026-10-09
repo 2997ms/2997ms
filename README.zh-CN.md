@@ -35,7 +35,7 @@
 我一直很喜欢算法题，累计完成过 3,000+ 道 LeetCode 题目。竞赛编程让我保持对基础、细节和问题拆解的热情。
 
 - 🟠 [LeetCode](https://leetcode.com/2997ms/)
-- 🔵 [Codeforces · OrangeDream](http://codeforces.com/profile/OrangeDream)
+- 🔵 [Codeforces · 2997ms](https://codeforces.com/profile/_2997ms_)
 - 🟣 [HackerRank](https://www.hackerrank.com/2997ms)
 
 ---
