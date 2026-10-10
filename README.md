@@ -14,9 +14,10 @@ I share what I learn about crypto, smart contracts, and algorithms through video
 
 ---
 
-## 🆕 What I’m working on
+## 🛠️ Tools I build
 
-I keep learning and sharing what I discover about smart contracts, security auditing, the EVM, and algorithms. I’m also making videos to document my ideas and hands-on experience.
+- 🔐 [Solidity Audit Radar](https://solidity-audit-radar.navy-iris-4289.chatgpt.site/) — a radar for Solidity smart-contract auditing opportunities
+- 🏆 [Hackathon Radar](https://hackathon-radar.navy-iris-4289.chatgpt.site/) — a radar for hackathon opportunities
 
 ---
 
