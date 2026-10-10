@@ -14,9 +14,10 @@
 
 ---
 
-## 🆕 现在在做
+## 🛠️ 我做的工具
 
-持续学习和分享智能合约、安全审计、EVM 与算法相关的内容；也在做视频，把自己的思考和实践记录下来。
+- 🔐 [Solidity Audit Radar](https://solidity-audit-radar.navy-iris-4289.chatgpt.site/) — Solidity 智能合约审计机会雷达
+- 🏆 [Hackathon Radar](https://hackathon-radar.navy-iris-4289.chatgpt.site/) — Hackathon 机会雷达
 
 ---
 
